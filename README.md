@@ -3,7 +3,7 @@
 Browser-based memory game built with vanilla JavaScript to replicate the classic Simon electronic game.
 
 ##  Live Demo
-[Play Game](https://your-github-pages-link-here)
+[Play Game](https://rohini711-dev.github.io/SIMON-GAME/)
 
 ##  Tech Stack
 - **Frontend**: JavaScript ES6+, HTML5, CSS3
